@@ -20,3 +20,4 @@
 ||adfstat.yandex.ru^
 ||appmetrica.yandex.ru^
 ||metrika.yandex.ru^
+||bnc.lt^
