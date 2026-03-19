@@ -2,7 +2,7 @@
 ! Title: OzzY's Blocklist
 ! Description: My personal block list.
 ! Version: 1.0.1.1
-! Homepage: https://github.com/gosdevel/dns-blocklists
+! Homepage: https://github.com/gosdevel/adguard_blocklist/blob/main/filter_10.txt
 ! Last modified: 2026-03-19T11:18:42.228Z
 !
 ||cdn.cookielaw.org^
