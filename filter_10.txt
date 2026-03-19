@@ -1,0 +1,22 @@
+!
+! Title: OzzY's Blocklist
+! Description: My personal block list.
+! Version: 1.0.1.1
+! Homepage: https://github.com/gosdevel/dns-blocklists
+! Last modified: 2026-03-19T11:18:42.228Z
+!
+||cdn.cookielaw.org^
+||consent.cookiebot.com^
+||consentcdn.cookiebot.com^
+||cdn.privacy-mgmt.com^
+||app.usercentrics.eu^
+||impact.com^
+||widget.intercom.io^
+||ssl.p.jwpcdn.com^
+||dai.google.com^
+||pagead.l.doubleclick.net^
+||settings-win.data.microsoft.com^
+||2giga.link^
+||adfstat.yandex.ru^
+||appmetrica.yandex.ru^
+||metrika.yandex.ru^
