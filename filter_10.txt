@@ -22,3 +22,8 @@
 ||metrika.yandex.ru^
 ||bnc.lt^
 ||ngfts.lge.com^
+||app.appsflyer.com^
+||app.adjust.com^
+||vk.com/rtrg^
+||zenaps.com^
+||redirect.viglink.com^
