@@ -21,3 +21,4 @@
 ||appmetrica.yandex.ru^
 ||metrika.yandex.ru^
 ||bnc.lt^
+||ngfts.lge.com^
