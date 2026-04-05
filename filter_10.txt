@@ -44,3 +44,7 @@
 ||sendgrid.net^
 ||f.vimeocdn.com^
 ||cdn.jwplayer.com^
+||mineralt.io^
+||tagmanager.google.com^
+||xp.apple.com^
+||api.impact.com^
